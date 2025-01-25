@@ -1,1 +1,1 @@
-Repositorio para la materia Ciencia de Dtos para Sensores Inteligentes CICESE 2025
+Repositorio para la materia Ciencia de Datos para Sensores Inteligentes CICESE 2025
